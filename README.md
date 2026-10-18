@@ -6,7 +6,7 @@
 
 **让 AI 操作一部真实的 iPhone：只要手机和一块约 40 多元的 ESP32，不需要电脑，不用越狱。**
 
-[English](README.md) · 简体中文
+[English](README_EN.md) · 简体中文
 
 演示视频和更新：[X @iamhenryyuan](https://x.com/iamhenryyuan) · [小红书 袁老板讲黑客松（Henry）](https://www.xiaohongshu.com/user/profile/5eb444030000000001000194) · [YouTube 演示](https://www.youtube.com/watch?v=Ly4im-P4jYg)
 
