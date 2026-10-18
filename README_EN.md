@@ -6,7 +6,7 @@
 
 **Let an AI model use a real iPhone with a $7 ESP32. Just the phone and the board: no computer, no jailbreak.**
 
-English · [简体中文](README.zh-CN.md)
+English · [简体中文](README.md)
 
 Demo video and updates: [X @iamhenryyuan](https://x.com/iamhenryyuan) · [YouTube demo](https://www.youtube.com/watch?v=Ly4im-P4jYg)
 
